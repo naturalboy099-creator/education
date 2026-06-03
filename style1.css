@@ -1,0 +1,29 @@
+body{
+    background-color:#760031;
+}
+h1{
+    font-size: xx-large;
+    color: #03adfc;
+    text-align: left;
+    font-display: block;
+    font-style: Georgia, ;
+    
+}
+h2{
+    font-size: larger;
+    color: #03adfc;
+    text-align: left;
+    font-display: block;
+    font-family: 'Times New Roman';
+
+}
+p{
+    text-transform: capitalize;
+    font: optional;
+    font-size: large;
+    font-weight: 500;
+    color: rgb(128, 124, 8);
+}
+a{
+    color: antiquewhite;
+}
